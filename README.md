@@ -1,3 +1,26 @@
+## prosilica_gige_sdk (noetic) - 1.26.3-2
+
+The packages in the `prosilica_gige_sdk` repository were released into the `noetic` distro by running `/usr/bin/bloom-release prosilica_gige_sdk --rosdistro noetic --track noetic` on `Sat, 06 Mar 2021 07:50:42 -0000`
+
+The `prosilica_gige_sdk` package was released.
+
+Version of package(s) in repository `prosilica_gige_sdk`:
+
+- upstream repository: https://github.com/ros-drivers/prosilica_gige_sdk.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.26.3-1`
+- new version: `1.26.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## prosilica_gige_sdk (noetic) - 1.26.3-1
 
 The packages in the `prosilica_gige_sdk` repository were released into the `noetic` distro by running `/usr/bin/bloom-release prosilica_gige_sdk --rosdistro noetic --track noetic` on `Sat, 06 Mar 2021 07:43:38 -0000`
